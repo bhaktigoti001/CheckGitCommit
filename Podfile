@@ -6,5 +6,6 @@ target 'HealthApp' do
   use_frameworks!
 
   # Pods for HealthApp
+  pod 'DGCharts'
 
 end
